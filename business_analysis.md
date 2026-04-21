@@ -1,4 +1,5 @@
-###Business Case Analysis: Promotion Effectiveness
+### Business Case Analysis: Promotion Effectiveness
+
 ***B1. Problem Formulation***
 **(a) Machine Learning Problem Formulation**
 **Target Variable:** items_sold (Continuous numerical value).
