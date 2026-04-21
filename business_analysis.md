@@ -1,7 +1,9 @@
 ### Business Case Analysis: Promotion Effectiveness
 
-***B1. Problem Formulation***
+## B1. Problem Formulation
+
 **(a) Machine Learning Problem Formulation**
+
 **Target Variable:** items_sold (Continuous numerical value).
 
 **Candidate Input Features:** store_id, store_size, location_type, promotion_type, is_weekend, is_festival, competition_density, and engineered date features (month, year, is_month_end).
