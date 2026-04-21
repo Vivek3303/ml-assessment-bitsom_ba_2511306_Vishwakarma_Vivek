@@ -1,6 +1,6 @@
-### Business Case Analysis: Promotion Effectiveness
+## Business Case Analysis: Promotion Effectiveness
 
-## B1. Problem Formulation
+### B1. Problem Formulation
 
 **(a) Machine Learning Problem Formulation**
 
